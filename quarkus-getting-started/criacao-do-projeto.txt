@@ -1,0 +1,3 @@
+control + shift + p -> generate
+
+incluir a biblioteca openapi
