@@ -1,3 +1,5 @@
 control + shift + p -> generate
 
 incluir a biblioteca openapi
+
+- Adicionadas mais três extensôes: quarkus-jdbc-mysql, quarkus-hibernate-orm-panache, quarkus-resteasy-jsonb
